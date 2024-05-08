@@ -5,7 +5,7 @@ const config = {
     port: 5432,
     database: "repertorio",
     user: "postgres",
-    password: "784512" // Profe su clave acá
+    password: "XXXXXXX" // Profe su clave acá
 };
 const pool = new Pool(config);
 
