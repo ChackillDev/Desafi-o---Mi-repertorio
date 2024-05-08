@@ -1,0 +1,16 @@
+{
+  "name": "desafio_mi_repertorio",
+  "version": "1.0.0",
+  "description": "prueba uso de pg node y express",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "Christian Chacón B.",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.11.5"
+  }
+}
